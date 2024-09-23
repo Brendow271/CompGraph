@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\AAStudy\4\ComputerGraph\C++\Debug\Tutorial06.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\AAStudy\4\ComputerGraph\C++\Debug\Tutorial06_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\AAStudy\4\ComputerGraph\C++\Debug\Tutorial06_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
